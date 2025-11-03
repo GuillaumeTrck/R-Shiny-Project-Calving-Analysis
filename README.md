@@ -7,7 +7,7 @@ This project was part of an R programming course at the Haute école en Hainaut 
 
 - Data loading and processing (incl. genetic inheritance): `recuperationdata.R`.
 - Helper: `read.sql` to parse `.sql` files into executable statements.
-- Shiny application (UI and plots): `app.R` (previously “Untitled-1”).
+- Shiny application (UI and plots): `app.R`.
 
 ## Libraries
 
